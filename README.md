@@ -5,7 +5,7 @@
 
 ---
 ## 📸 Preview
-![Portfolio Preview](./public/images/preview.png)  
+![Portfolio Preview](./preview.png)  
 
 ---
 
@@ -64,7 +64,6 @@ Create a portfolio that showcases skills **clearly** while highlighting **data s
 * **Email**: [agrwalrohit7877@gmail.com](mailto:agrwalrohit7877@gmail.com)
 * **LinkedIn**: [Connect With Me](https://www.linkedin.com/in/rohit-agarwal6367/)
 * **X**: [Follow Me](https://x.com/Rohit_Agarwal63)
-* **GitHub**: [rohitagarwal6367](https://github.com/rohitagarwal6367)
 
 ---
 
